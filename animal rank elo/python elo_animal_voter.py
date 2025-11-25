@@ -1,18 +1,5 @@
 """
-Elo Animal Voting App — Tkinter (full features)
-
-Adds:
-1) Copy images into a managed project folder when imported
-2) Drag-and-drop image import support (requires tkinterdnd2; optional)
-3) Dislike button + Neutral (draw) option
-4) Built-in viewer with zoom & rotate (canvas)
-
-Dependencies:
-- Pillow (pip install pillow)
-- tkinterdnd2 (optional, for drag-and-drop): pip install tkinterdnd2
-
-Author: ChatGPT (GPT-5 Thinking mini)
-Date: 2025
+Elo Animal Voting
 """
 
 import os
